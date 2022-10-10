@@ -126,6 +126,7 @@ section .image2 {
   margin: 50px 0;
   word-spacing: 2px;
   line-height: 25px;
+  color: gray;
 }
 .content button {
   background-color: hsl(0, 0%, 0%);
